@@ -1,0 +1,3 @@
+#Locations
+
+[template](template.md)
