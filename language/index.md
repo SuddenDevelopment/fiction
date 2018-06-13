@@ -1,7 +1,7 @@
-#Objects
+#Language
 
 [template](template.md)
 
-## Weapons
+## Terms
 
-## Food
+## Slang
